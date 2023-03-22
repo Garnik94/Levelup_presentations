@@ -1,4 +1,0 @@
-/jdbc/Demo.jsp?example=rsMetadata
-/jdbc/Demo.jsp?example=dbMetadata
-/jdbc/Demo.jsp?example=transaction&failed=yes
-/jdbc/Demo.jsp?example=batch
