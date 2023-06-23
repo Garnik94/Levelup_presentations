@@ -1,5 +1,7 @@
 package decorator;
 
+import java.util.HashMap;
+
 public class DeveloperDecorator implements Developer{
 
 	private Developer developer;
